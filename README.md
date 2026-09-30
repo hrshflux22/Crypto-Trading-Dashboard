@@ -1,3 +1,15 @@
+# Crypto-Trading-Dashboard 
+<!-- Core Stack -->
+[![React](https://img.shields.io/badge/React-18.x-61DAFB.svg)](https://reactjs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26.svg)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6.svg)](https://www.w3.org/Style/CSS/)
+
+<!-- Integrations & Tools -->
+[![REST API](https://img.shields.io/badge/REST--API-Integration-0055DA.svg)](https://restfulapi.net/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-Visualization-FF6384.svg)](https://www.chartjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-339933.svg)](https://nodejs.org/)
+[![npm](https://img.shields.io/badge/npm-Package--Manager-CB3837.svg)](https://www.npmjs.com/)
 
 
 A dynamic **Crypto Trading Dashboard** designed to monitor real-time cryptocurrency market data, manage automated trading bots, and track portfolio performance. Built on **React**, this application provides an interactive user interface for viewing live order book trades, analyzing performance trends via dynamic charts, and configuring trading strategy parameters via API services.
